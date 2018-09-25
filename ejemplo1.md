@@ -22,5 +22,3 @@ Esto en un bloque tocho de codigo
 Esto sigue siendo un bloque tocho de codigo
 Pues eso
 ~~~
-
-![Imagen de Google]https://www.google.com/search?q=google&client=firefox-b&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi4i7v--tXdAhVFOhoKHbAqA_cQ_AUICygC&biw=1920&bih=933#imgrc=ri3RUVXZK7wAGM:
